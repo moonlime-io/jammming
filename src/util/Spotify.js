@@ -1,5 +1,5 @@
 const clientID = "ad5ff324f06d48178ce45b5751f8548a";
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "http://moonlime-jammming.surge.sh";
 let accessToken;
 
 const Spotify = {
